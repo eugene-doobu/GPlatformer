@@ -60,3 +60,4 @@ crashlytics-build.properties
 
 # 외부에셋
 /[Aa]ssets/ExternalAssets/*
+/[Rr]ecordings/*
